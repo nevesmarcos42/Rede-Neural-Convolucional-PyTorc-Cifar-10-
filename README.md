@@ -18,11 +18,17 @@ O objetivo deste projeto é desenvolver um modelo de aprendizado profundo para c
 
 
 🚀 Recursos do Projeto
+
 ✅ CNN aprimorada – Estrutura inspirada em redes como VGG-16 para melhor extração de características.
+
 ✅ Data Augmentation – Técnicas como flip horizontal, rotação, jitter de cor e recorte aleatório para aumentar a diversidade dos dados.
+
 ✅ Treinamento eficiente – Compatível com GPU (CUDA) e ajustável para execução em CPU.
+
 ✅ Otimização avançada – Uso de Adam optimizer e ajuste da taxa de aprendizado com Learning Rate Scheduler.
+
 ✅ Visualização de dados – Funções para explorar amostras antes e depois do pré-processamento.
+
 🛠 Instalação
 1️⃣ Clone o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git

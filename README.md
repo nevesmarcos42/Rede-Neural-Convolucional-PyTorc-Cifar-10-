@@ -6,15 +6,25 @@ Este repositório contém um modelo de rede neural convolucional (CNN) para clas
 O objetivo deste projeto é desenvolver um modelo de aprendizado profundo para classificar imagens em 10 categorias do conjunto CIFAR-10. A implementação inclui técnicas modernas de pré-processamento de dados, otimização e visualização, garantindo um modelo eficiente e preciso.
 
  Estrutura do Repositório
+ 
 ├── dataset/              # Conjunto de dados CIFAR-10
+
 ├── models/               # Arquiteturas de CNN
+
 ├── notebooks/            # Jupyter Notebooks com experimentos
+
 ├── src/                  # Código principal do projeto
+
 │   ├── train.py          # Script de treinamento do modelo
+
 │   ├── evaluate.py       # Avaliação do modelo
+
 │   ├── preprocess.py     # Funções de pré-processamento
+
 │   ├── visualize.py      # Visualizações de imagens e dados
+
 ├── requirements.txt      # Dependências do projeto
+
 └── README.md             # Documentação
 
 

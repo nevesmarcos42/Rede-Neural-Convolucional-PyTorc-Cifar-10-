@@ -31,6 +31,7 @@ O objetivo deste projeto é desenvolver um modelo de aprendizado profundo para c
  Visualização de dados – Funções para explorar amostras antes e depois do pré-processamento.
 
  Instalação
+ 
 1 Clone o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
